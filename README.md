@@ -1,5 +1,2 @@
-Preliminary webpage is online.\
-09/20/2022\
-\
-Updated.\
-
+Preliminary webpage is online.
+09/20/2022
